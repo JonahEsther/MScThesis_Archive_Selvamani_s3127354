@@ -1,0 +1,11 @@
+geopandas
+pandas
+pystac
+scikit-learn
+requests
+rasterio
+shapely
+tqdm
+ultralytics
+sahi
+pyyaml
