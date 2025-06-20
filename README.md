@@ -1,4 +1,4 @@
-s# City-Wide Pavement Distress Detection - MSc Thesis Archive
+# City-Wide Pavement Distress Detection - MSc Thesis Archive
 
 This archive contains all the necessary data, code, and results for the MSc thesis titled "City-Wide Pavement Distress Detection Using Aerial Imagery and Deep Learning: A Case Study of Zurich" by Jonah Esther Selvamani.
 
