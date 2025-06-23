@@ -1,7 +1,6 @@
-# City-Wide Pavement Distress Detection - MSc Thesis Archive
+# City-Wide Pavement Distress Detection using Aerial Imagery and Deep Learning  - MSc Thesis Archive
 
-This archive contains all the necessary data, code, and results for the MSc thesis titled "City-Wide Pavement Distress Detection Using Aerial Imagery and Deep Learning: A Case Study of Zurich" by Jonah Esther Selvamani.
-
+This archive contains all the necessary data, code, and results for the MSc thesis titled "City-Wide Pavement Distress Detection Using Aerial Imagery and Deep Learning: A Case Study of Zurich"
 The goal of this archive is to ensure the full reproducibility of the research. The workflow is divided into four main Python scripts located in the `02_Code/` directory.
 
 ---
